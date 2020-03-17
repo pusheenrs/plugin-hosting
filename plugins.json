@@ -26,7 +26,7 @@
             "date":"2020-02-08",
             "sha512sum":"38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
             "version":"0.0.5",
-            "url":"https://github.com/open-osrs/plugin-hosting/blob/master/alchemicalhydra-0.0.5.jar?raw=true",
+            "url":"https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
             "requires":"0.0.1"
          }
       ]
